@@ -2,11 +2,11 @@
 
 ###
 
-<p align="center">Web Developer | Programmer | Content Writer</p>
+<h3 align="center">Web Developer | Programmer | Content Writer</h3>
 
 ###
 
-<div align="center">
+<div align="center">1
  <img src="https://github-readme-stats.vercel.app/api?username=santhoshparthiban2002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=santhoshparthiban2002&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=j M[ Y]" height="150" alt="streak graph"  />
 
