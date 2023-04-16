@@ -75,7 +75,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/santhod/santhod/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/santhoshparthiban2002/santhoshparthiban2002/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
