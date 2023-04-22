@@ -75,8 +75,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/santhoshparthiban2002/santhoshparthiban2002/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
